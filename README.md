@@ -13,7 +13,7 @@ Supabase and Next.js were chosen because:
 
 1. Clone the repository
 2. Run `yarn`
-3. Setup .env.local
+3. Setup .env.local (Credentials provided in recruiter email)
 4. Run `yarn dev`
 
 ## How to test project
